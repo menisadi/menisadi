@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I’m a data scientist who loves math and data<br>🐍 Python is my daily driver<br>✨ Learning R, Flutter and Lua<br>🎧 On my ear: mainly indie pop and indie folk<br>💡 Oh, I'm using NeoVim btw
+👋 I’m a data scientist who loves math and data<br>🐍 Python is my daily driver<br>✨ Learning R, Flutter and Lua<br>🎧 Listening (mostly) to indie pop and indie folk<br>💡 Oh, I'm using NeoVim btw
 
 
 # 💻 Tech Stack:
